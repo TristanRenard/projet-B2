@@ -58,7 +58,7 @@ Si votre documentation n'est pas hébergée en ligne, vous devrez la joindre à 
 > - vos choix de conception 
 > - Et vos choix de fonctionnalités.
 > **Ne mettez pas de screenshot de code dans votre documentation, cela n'a aucun intérêt.** Privilegiez les schémas, les explications et les liens vers le code ou au maximum son utilisation.
->  ** ***
+
 ## Pro tips
 - ne vous jetez pas de suite pour écrire le code, commencez par la conception, notamment les schémas de modélisation de données, tels que le MCD, etc. ;
 - soyez régulier, ne faites pas tout d’un bloc (et surtout pas au dernier moment) ;
