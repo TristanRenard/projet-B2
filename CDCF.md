@@ -6,14 +6,6 @@ Nous sommes une société qui a pour but de vendre à des boutiques la possibili
 
 Le livrable est donc un site web, correctement documenté et fonctionnel. De plus le code doit être correctement organisé et propre dans l'objectif de le maintenir et de sortir des versions futures.
 
-Lors du développement de votre application vous devrez respecter les normes de versionnage décrites dans le manifet "[Sementic Versioning 2.0.0](https://semver.org/lang/fr/)". Que vous versionniez votre application en fonction de la production ou non, vous devrez respecter les règles de versionning de ce manifeste.
-> Pour rappel on versionne un projet sous la forme `MAJOR.MINOR.PATCH` où :
-> - `MAJOR` est incrémenté lors de changements incompatibles avec les versions précédentes,
-> - `MINOR` est incrémenté lors de l'ajout de nouvelles fonctionnalités,
-> - `PATCH` est incrémenté lors de corrections de bugs.
->
-> Dans un projet node.js vous pouvez utiliser le package [npm version](https://docs.npmjs.com/cli/v7/commands/npm-version) pour versionner votre application ou vous povuez le faire manuellement en modifiant le fichier `package.json` (la clé `version`) de votre projet.
-
 
 ## Site map
 
@@ -31,9 +23,6 @@ Lors du développement de votre application vous devrez respecter les normes de 
 Toutes les pages doivent contenir un header :
 - avec le logo et un lien vers la page d'accueil,
 - un lien vers la page de ajout d'adresse,
-
-Toutes les pages doivent contenir un footer :
-- un copyright ou un mail de contact ou des CGU.
 
 
 ## Page d'accueil
