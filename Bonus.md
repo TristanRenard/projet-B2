@@ -51,3 +51,4 @@ Ajout de la possibilité d'installer l'application sur un téléphone ou un ordi
 ## Bonus 13 : Application mobile
 Réalisation d'une application mobile sur le modèle de l'application web mobile (responsive).
 
+## Bonus 14 : CI/CD
