@@ -2,6 +2,10 @@
 
 Ce fichier est là pour vous dire ce que vous devez absolument utiliser. Ainsi que des recommendations de de techno
 
+- [Tech stack](#tech-stack)
+  - [Techno obligatoireS](#techno-obligatoires)
+  - [Techno recommandées](#techno-recommandées)
+
 ## Techno obligatoireS
 |         Techno | description                                         |
 | -------------: | :-------------------------------------------------- |

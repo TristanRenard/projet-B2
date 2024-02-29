@@ -7,6 +7,18 @@ Nous sommes une société qui a pour but de vendre à des boutiques la possibili
 Le livrable est donc un site web, correctement documenté et fonctionnel. De plus le code doit être correctement organisé et propre dans l'objectif de le maintenir et de sortir des versions futures.
 
 
+- [Cahier des charges fonctionnel](#cahier-des-charges-fonctionnel)
+  - [Introduction](#introduction)
+  - [Site map](#site-map)
+  - [Layout](#layout)
+  - [Page d'accueil](#page-daccueil)
+  - [Ajout](#ajout)
+  - [Détail](#détail)
+  - [Modification](#modification)
+  - [Suppression](#suppression)
+  - [Rendu](#rendu)
+
+
 ## Site map
 
 ![siteMap](./images/CDCF/siteMap.png)
@@ -62,6 +74,7 @@ Cette page est accessible depuis la page de détail en cliquant sur le bouton de
 Vous pouvez faire une page pour confirmer la suppression ou un popup pour confirmer la suppression. Vous pouvez également faire une suppression directe sans confirmation. C'est à vous de voir ce qui est le plus adapté à votre application.
 
 
+## Rendu
 - [ ] Un repository GIT avec le code du site web.
 - [ ] le code doit être dans son entièreté sans erreur et formaté ;
 - [ ] le code ne doit être « propre » et correctement architecturé,

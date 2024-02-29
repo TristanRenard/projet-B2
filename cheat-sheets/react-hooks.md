@@ -2,6 +2,13 @@
 
 Ce fichier est là pour vous donner un aperçu des hooks que vous devriez utiliser dans vos composants.
 
+- [Cheat sheet: React Hooks](#cheat-sheet-react-hooks)
+  - [useState](#usestate)
+    - [update state](#update-state)
+  - [useEffect](#useeffect)
+  - [useContext](#usecontext)
+
+
 ## [useState](https://react.dev/reference/react/useState)
 Permet de gérer l'état d'un composant.
 ```jsx

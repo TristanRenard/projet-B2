@@ -1,5 +1,13 @@
 # Cheat-sheet: Next.js
 
+
+- [Cheat-sheet: Next.js](#cheat-sheet-nextjs)
+  - [Modern JS](#modern-js)
+  - [Installation](#installation)
+  - [Learn Next.js](#learn-nextjs)
+  - [Next.js documentation](#nextjs-documentation)
+
+
 ## [Modern JS](https://javascript.info/)
 
 ## Installation

@@ -1,6 +1,20 @@
 # Cheat sheet: UI/UX
 Le but de ce document est de vous donner les bases de l'UI/UX pour que vous puissiez faire des interfaces utilisables et agréables.
 
+- [Cheat sheet: UI/UX](#cheat-sheet-uiux)
+  - [Moodboard](#moodboard)
+    - [Structure :](#structure-)
+    - [Contenu :](#contenu-)
+    - [Inspiration :](#inspiration-)
+    - [Exemple :](#exemple-)
+  - [Wireframe (Mockup)](#wireframe-mockup)
+    - [Exemple :](#exemple--1)
+  - [Choix des couleurs, fonts et formes](#choix-des-couleurs-fonts-et-formes)
+  - [Design system](#design-system)
+    - [Exemple :](#exemple--2)
+  - [UI Final](#ui-final)
+
+
 ## Moodboard
 Tout vos projets doivent commencer par un moodboard. C'est une planche d'inspiration qui vous permettra de construire une identité visuelle pour votre application avec de la cohérence. **Il est persque impossible de faire une bonne interface sans moodboard**. Donc comment construire un moodboard ?
 

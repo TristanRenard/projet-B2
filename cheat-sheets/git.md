@@ -3,6 +3,23 @@
 Ici vous trouverez les commandes git que vous devriez utiliser pour ce projet :
 
 
+- [Cheat-sheet: Git](#cheat-sheet-git)
+  - [Connection à un repo distant](#connection-à-un-repo-distant)
+  - [cloner un repo](#cloner-un-repo)
+  - [Ajouter un fichier](#ajouter-un-fichier)
+  - [retirer un fichier](#retirer-un-fichier)
+  - [Commit](#commit)
+  - [Push](#push)
+  - [Pull](#pull)
+  - [Créer une branche](#créer-une-branche)
+  - [Changer de branche](#changer-de-branche)
+  - [Voir les branches](#voir-les-branches)
+  - [Fusionner une branche](#fusionner-une-branche)
+  - [Supprimer une branche](#supprimer-une-branche)
+  - [Voir les commits](#voir-les-commits)
+  - [Voir les différences](#voir-les-différences)
+
+
 ## Connection à un repo distant
 [Lire la doc](https://docs.github.com/en/get-started/quickstart/set-up-git)
 

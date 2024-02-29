@@ -4,6 +4,20 @@ Ce repo contient tout ce qu'il y a savoir pour le projet de B2 du cours de base 
 
 Ce projet étant pour la plupart le premier avec un cahier des charges aussi détaillé et avec des attentes précises je vous joint ci-dessous du vocabulaire et comment lire les différents documents nécessaires à la réalisation de ce projet.
 
+- [Projet-B2](#projet-b2)
+    - [Vocabulaire :](#vocabulaire-)
+  - [Introduction au projet](#introduction-au-projet)
+  - [Comment lire le cahier des charges fonctionnel (CDCF)](#comment-lire-le-cahier-des-charges-fonctionnel-cdcf)
+  - [Tech stack](#tech-stack)
+  - [Bonus](#bonus)
+  - [Cheat sheets](#cheat-sheets)
+  - [Planification et documentation](#planification-et-documentation)
+  - [Rendu](#rendu)
+    - [Code](#code)
+    - [Documentation](#documentation)
+  - [Pro tips](#pro-tips)
+
+
 ---
 ### Vocabulaire :
 
@@ -21,10 +35,22 @@ L'objectif est de réaliser un site web au départ relativement faible en foncti
 Le but est de vous pousser à mettre à profit le plus de connaissances possible acquises durant les cours.
 
 
-## Comment lire le cahier des charges fonctionnel (CDCF)
+## [Comment lire le cahier des charges fonctionnel (CDCF)](./CDCF.md)
 Prenez le temps de bien lire le CDCF, vous serez notés suivant la fidélité de votre rendu par rapport à celui-ci.
 Si un élément n’est pas clair, vous pouvez vous adresser aux représentants “clients” (les personnes qui jouent le rôle du client).
 
+## [Tech stack](./TechStack.md)
+
+Là tech stack obligatoire est définie dans le fichier [TechStack.md](./TechStack.md).
+
+## [Bonus](./Bonus.md)
+Si vous voullez des idées de fonctionnalités bonus, vous pouvez consulter le fichier [Bonus.md](./Bonus.md).
+
+## Cheat sheets
+- [Js et NextJS](./cheat-sheets/js&next.md)
+- [Git](./cheat-sheets/git.md)
+- [react hooks](./cheat-sheets/react-hooks.md)
+- [UI / UX](./cheat-sheets/UI-UX.md)
 
 ## Planification et documentation
 Une des premières qualité pour pouvoir être employable est de savoir planifier et documenter son travail. Il vous est donc demandé de tenir un planning de vos tâches (le but n'étant pas de sanctionner les retards sur des tâches mais de voir votre gestion des retards et des imprévus) et de documenter votre travail (pour rappel un bon code claire n'a pas besoin de commentaire, mais un code non transparent doit l'être raisonnablement, la documentation se fait donc **hors du code**).

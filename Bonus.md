@@ -3,6 +3,23 @@ Les idées qui suivent sont des idées de bonus pour votre projet. Vous pouvez e
 
 > **Attention** : Les bonus ne seront comptabilisés que si le projet de base contient **TOUTES** les fonctionnalités demandées dans le CDCF.
 
+- [Bonus](#bonus)
+  - [Bonus 1 : Authentification](#bonus-1--authentification)
+  - [Bonus 2 : Géolocalisation](#bonus-2--géolocalisation)
+  - [Bonus 3 : possibilité d'enregistrer des images](#bonus-3--possibilité-denregistrer-des-images)
+  - [Bonus 4 : Système de notation et de commentaire](#bonus-4--système-de-notation-et-de-commentaire)
+  - [Bonus 5 : Système de favoris](#bonus-5--système-de-favoris)
+  - [Bonus 6 : Système de partage](#bonus-6--système-de-partage)
+  - [Bonus 7 : Barre de recherche dynamique](#bonus-7--barre-de-recherche-dynamique)
+  - [Bonus 8 : Tests unitaires](#bonus-8--tests-unitaires)
+  - [Bonus 9 : Tests end to end](#bonus-9--tests-end-to-end)
+  - [Bonus 10 : Internationalisation](#bonus-10--internationalisation)
+  - [Bonus 11 : Dark mode](#bonus-11--dark-mode)
+  - [Bonus 12 : PWA](#bonus-12--pwa)
+  - [Bonus 13 : Application mobile](#bonus-13--application-mobile)
+  - [Bonus 14 : CI/CD](#bonus-14--cicd)
+
+
 ## Bonus 1 : Authentification
 Systeme d'authentification pour les utilisateurs. Les utilisateurs pourront s'inscrire, se connecter et se déconnecter. Les utilisateurs pourront également modifier leur mot de passe si ils l'ont oublié. 
 (+confirmation par mail)
