@@ -11,6 +11,7 @@ Le livrable est donc un site web, correctement documenté et fonctionnel. De plu
   - [Introduction](#introduction)
   - [Site map](#site-map)
   - [Layout](#layout)
+    - [Le header](#le-header)
   - [Page d'accueil](#page-daccueil)
   - [Ajout](#ajout)
   - [Détail](#détail)
@@ -33,8 +34,9 @@ Le livrable est donc un site web, correctement documenté et fonctionnel. De plu
 
 ## Layout
 Toutes les pages doivent contenir un header :
-- avec le logo et un lien vers la page d'accueil,
-- un lien vers la page de ajout d'adresse,
+
+### Le header
+doit vous permettre d'accéder à toutes les pages de votre site web depuis n'importe quelle page. et doit absolument être présent sur toutes les pages. Il doit également contenir le logo de votre site web.
 
 
 ## Page d'accueil
@@ -56,6 +58,24 @@ Cette page est accessible depuis n'importe quelle page du site. Elle doit conten
 - Code postal (obligatoire)
 - Pays (obligatoire)
 - Selon le type de lieu, des champs supplémentaires devront être renseignés (ex: pour un restaurant, le type de cuisine, pour un bar, le type de bar, pour un musée si il est gratuit ou payant, etc...).
+
+> Vous devez avoir obligatoirements les types de lieux suivants : 
+> - Restaurant
+>   - Type de cuisine
+>   - Nombre d'étoiles
+>   - Prix moyen
+> - Musée
+>   - Courant artistique
+>   - Type d'art (peinture, sculpture, etc... )
+>   - Gratuit ou payant
+>   - Prix
+> - Bar
+>   - Type de bar (ex: bar à vin, bar à cocktail, pub, etc...)
+>   - Prix moyen
+> - Parc
+>   - Type de parc (ex: parc floral, parc forestier, ...)
+>   - Public ou privé
+>   - Prix
 
 Exemple de mockup de la page d'ajout :
 ![mockup_add](./images/CDCF/mockup2.png)
