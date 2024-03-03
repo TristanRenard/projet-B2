@@ -1,5 +1,5 @@
 # Bonus
-Les idées qui suivent sont des idées de bonus pour votre projet. Vous pouvez en choisir une ou plusieurs, ou même en proposer d'autres. Vous pouvez également ne pas en choisir du tout. **Et vous serez toujours noté sur une base de 20/20**. Cependant les bonus comptent dans la qualité globale de votre code donc si vos bonus sont mal réalisés, cela peut impacter votre note négativement. 
+Les idées qui suivent sont des idées de bonus pour votre projet. Vous pouvez en choisir une ou plusieurs, ou même en proposer d'autres. Vous pouvez également ne pas en choisir du tout. **Et vous serez toujours noté sur une base de 20/20, les bonus sont là pour vous permettre d'aller plus loin ou ratraper des points si jamais il y a quelques points perdus ici et là.**
 
 > **Attention** : Les bonus ne seront comptabilisés que si le projet de base contient **TOUTES** les fonctionnalités demandées dans le CDCF.
 
