@@ -6,7 +6,7 @@ Ce fichier est là pour vous dire ce que vous devez absolument utiliser. Ainsi q
   - [Techno obligatoireS](#techno-obligatoires)
   - [Techno recommandées](#techno-recommandées)
 
-## Techno obligatoireS
+## Techno obligatoires
 |         Techno | description                                         |
 | -------------: | :-------------------------------------------------- |
 | NextJs (pages) | Framework pour faire du React et l'api de notre app |
