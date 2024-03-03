@@ -49,10 +49,12 @@ Exemple de mockup de la page d'accueil :
 
 ## Ajout
 Cette page est accessible depuis n'importe quelle page du site. Elle doit contenir un formulaire pour ajouter une adresse. Le formulaire doit contenir les champs suivants :
-- Adresse (numero + rue + ville),
-- Lieu dit (nom du lieu),
-- Pays,
-- Type de lieu (ex: restaurant, bar, etc...),
+- Type de lieu (obligatoire, e.g: restaurant, bar, etc.),
+- Nom du lieu (obligatoire)
+- Adresse (obligatoire)
+- Ville (obligatoire)
+- Code postal (obligatoire)
+- Pays (obligatoire)
 - Selon le type de lieu, des champs supplémentaires devront être renseignés (ex: pour un restaurant, le type de cuisine, pour un bar, le type de bar, pour un musée si il est gratuit ou payant, etc...).
 
 Exemple de mockup de la page d'ajout :
@@ -77,6 +79,6 @@ Vous pouvez faire une page pour confirmer la suppression ou un popup pour confir
 ## Rendu
 - [ ] Un repository GIT avec le code du site web.
 - [ ] le code doit être dans son entièreté sans erreur et formaté ;
-- [ ] le code ne doit être « propre » et correctement architecturé,
+- [ ] le code doit être « propre » et correctement architecturé,
 - [ ] une documentation technique ;
-- [ ] la date limite de la livraison finale doit être au plus xxxx après la date de début du projet, délai qui pourra être exceptionnellement prolongé par un accord commun entre les deux parties.
+- [ ] la date limite de la livraison finale doit être au plus 12 semaines après la date de début du projet, délai qui pourra être exceptionnellement prolongé par un accord commun entre les deux parties.
