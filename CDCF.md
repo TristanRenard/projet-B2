@@ -36,7 +36,7 @@ Le livrable est donc un site web, correctement documenté et fonctionnel. De plu
 Toutes les pages doivent contenir un header :
 
 ### Le header (Nav bar)
-Doit vous permettre d'accéder à toutes les pages de votre site web depuis n'importe quelle page. Ce header (Nav bar) doit absolument être présent sur toutes les pages. Il doit également contenir le logo de votre site web. Les liens de navigations obligatoires sont doncs : Liste (qui devrait être la home page si vous suivez la site map du CDCF) et Ajout. Vous pouvez évidement ajouter des liens en fonctions des fonctionnalités que vous avez implémentées.
+Doit vous permettre d'accéder à toutes les pages de votre site web depuis n'importe quelle page. Ce header doit absolument être présent sur toutes les pages. Il doit contenir le logo de votre site web à gauche et les liens de navigations : "Liste" (qui devrait être la home page si vous suivez la site map du CDCF) et "Ajout". Vous pouvez évidement ajouter des liens en fonctions des fonctionnalités que vous avez implémentées.
 
 
 ## Page d'accueil
