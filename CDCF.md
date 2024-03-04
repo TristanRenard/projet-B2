@@ -11,6 +11,7 @@ Le livrable est donc un site web, correctement documenté et fonctionnel. De plu
   - [Introduction](#introduction)
   - [Site map](#site-map)
   - [Layout](#layout)
+    - [Le header (Nav bar)](#le-header-nav-bar)
   - [Page d'accueil](#page-daccueil)
   - [Ajout](#ajout)
   - [Détail](#détail)
@@ -33,8 +34,9 @@ Le livrable est donc un site web, correctement documenté et fonctionnel. De plu
 
 ## Layout
 Toutes les pages doivent contenir un header :
-- avec le logo et un lien vers la page d'accueil,
-- un lien vers la page de ajout d'adresse,
+
+### Le header (Nav bar)
+Doit vous permettre d'accéder à toutes les pages de votre site web depuis n'importe quelle page. Ce header doit absolument être présent sur toutes les pages. Il doit contenir le logo de votre site web à gauche et les liens de navigations : "Liste" (qui devrait être la home page si vous suivez la site map du CDCF) et "Ajout". Vous pouvez évidement ajouter des liens en fonctions des fonctionnalités que vous avez implémentées.
 
 
 ## Page d'accueil
@@ -56,6 +58,25 @@ Cette page est accessible depuis n'importe quelle page du site. Elle doit conten
 - Code postal (obligatoire)
 - Pays (obligatoire)
 - Selon le type de lieu, des champs supplémentaires devront être renseignés (ex: pour un restaurant, le type de cuisine, pour un bar, le type de bar, pour un musée si il est gratuit ou payant, etc...).
+
+> Vous devez avoir obligatoirements les types de lieux suivants : 
+> - Restaurant
+>   - Type de cuisine (unique choix)
+>   - Nombre d'étoiles (de 1 à 3)
+>   - Prix moyen (de 1 à 5)
+> - Musée
+>   - Courant artistique (uniquement un choix)
+>   - Type d'art (peinture, sculpture, etc... )
+>   - Gratuit ou payant (gratuit ou de 1 à 5)
+>   - Prix (facultatif : ne s'affiche que si payant)
+> - Bar
+>   - Type de bar (ex: bar à vin, bar à cocktail, pub, etc...) q
+>   - Prix moyen (de 1 à 5)
+> - Parc
+>   - Type de parc (ex: parc floral, parc forestier, ...) (unique choix)
+>   - Public ou privé (public ou privé)
+>   - Gratuit ou payant (gratuit ou de 1 à 5)
+>   - Prix (facultatif : ne s'affiche que si payant)
 
 Exemple de mockup de la page d'ajout :
 ![mockup_add](./images/CDCF/mockup2.png)
