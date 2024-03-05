@@ -1,6 +1,6 @@
 # Cheat sheet: React Hooks
 
-Ce fichier est là pour vous donner un aperçu des hooks que vous devriez utiliser dans vos composants.
+Ce fichier est là pour vous donner un aperçu des hooks que vous pourriez utiliser dans vos composants.
 
 - [Cheat sheet: React Hooks](#cheat-sheet-react-hooks)
   - [useState](#usestate)
@@ -35,16 +35,16 @@ useEffect(() => {
 }, [dependencies]);
 ```
 
-le code sera exécuté à chaque fois que les dépendances changent.
+Le code sera exécuté à chaque fois que les dépendances changent.
 
-> pro tip: si vous ne mettez pas de dépendances, le code sera exécuté à chaque rendu.
-> pro tip: attentions lorsque la dépendance est un objet,
+> Pro tip: Si vous ne mettez pas de dépendances, le code sera exécuté à chaque rendu.
+> Pro tip: Attention lorsque la dépendance est un objet.
 
 ## [useContext](https://react.dev/reference/react/useContext)
 ```jsx
 import { useContext } from 'react';
 
-function MyComponent() {
+const MyComponent = () => {
   const theme = useContext(ThemeContext);
   // ...
 }
@@ -52,7 +52,7 @@ function MyComponent() {
 ```
 
 ```jsx
-function MyPage() {
+const MyPage = () => {
   return (
     <ThemeContext.Provider value="dark">
       <Form />
