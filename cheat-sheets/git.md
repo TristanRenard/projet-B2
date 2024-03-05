@@ -1,13 +1,13 @@
 # Cheat-sheet: Git
 
-Ici vous trouverez les commandes git que vous devriez utiliser pour ce projet :
+Ici vous trouverez les commandes git que vous pourriez utiliser pour ce projet :
 
 
 - [Cheat-sheet: Git](#cheat-sheet-git)
-  - [Connection à un repo distant](#connection-à-un-repo-distant)
-  - [cloner un repo](#cloner-un-repo)
+  - [Connexion à un repo distant](#connexion-à-un-repo-distant)
+  - [Cloner un repo](#cloner-un-repo)
   - [Ajouter un fichier](#ajouter-un-fichier)
-  - [retirer un fichier](#retirer-un-fichier)
+  - [Retirer un fichier](#retirer-un-fichier)
   - [Commit](#commit)
   - [Push](#push)
   - [Pull](#pull)
@@ -20,10 +20,11 @@ Ici vous trouverez les commandes git que vous devriez utiliser pour ce projet :
   - [Voir les différences](#voir-les-différences)
 
 
-## Connection à un repo distant
+
+## Connexion à un repo distant
 [Lire la doc](https://docs.github.com/en/get-started/quickstart/set-up-git)
 
-## cloner un repo
+## Cloner un repo
 ```bash
 git clone <url>
 ```
@@ -37,7 +38,7 @@ pour ajouter tous les fichiers modifiés :
 git add .
 ```
 
-## retirer un fichier
+## Retirer un fichier
 ```bash
 git rm <file>
 ```
@@ -52,7 +53,7 @@ Si vous ne mettez pas de `-m "message"` git ouvrira un éditeur de texte pour qu
 ```bash
 git push origin <branch>
 ```
-par défaut la branche est `main` ou `master`
+Par défaut, la branche est `main` ou `master`
 
 ## Pull
 ```bash
